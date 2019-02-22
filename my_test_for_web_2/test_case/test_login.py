@@ -6,7 +6,7 @@ from practice.class_and_encapsulation import Login
 import ddt
 
 
-data111 = [{'use': 'qwe123456','password': 'qwe123456'},{'use': 'qwe123456','password': 'qwe123456'}, {'use': 'qwe123456','password': 'qwe123456'}]
+data111 = [{'use': 'qwe123456','password': 'qwe123456'},{'use': 'qwe12456','password': 'qwe123456'}, {'use': 'qwe123456','password': 'qwe123456'}]
 
 @ddt.ddt
 class Login_chandao(unittest.TestCase):
